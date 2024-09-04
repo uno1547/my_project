@@ -5,3 +5,5 @@ this must be discarded
 this too
 
 이프로젝트는 학교, 집, 회사에서 모두 접근가능합니다.
+
+이것은 학교에서 수정한 변경사항입니다.
