@@ -3,3 +3,5 @@ this is first change
 this is second change
 this must be discarded
 this too
+
+이프로젝트는 학교, 집, 회사에서 모두 접근가능합니다.
